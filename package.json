@@ -1,0 +1,28 @@
+{
+  "name": "http-authentication-schemes",
+  "version": "1.0.0",
+  "description": "HTTP Authentication Schemes Examples",
+  "main": "server.js",
+  "repository": {
+    "url": "https://github.com/hasanciftci26/http-authentication-schemes"
+  },
+  "scripts": {
+    "start": "npx ts-node server.ts"
+  },
+  "keywords": [
+    "HTTP",
+    "authentication",
+    "schemes",
+    "axios"
+  ],
+  "author": "hasanciftcii26@gmail.com",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "axios": "^1.7.7"
+  },
+  "devDependencies": {
+    "@types/node": "^22.7.4",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.2"
+  }
+}
